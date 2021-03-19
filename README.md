@@ -1,3 +1,3 @@
 ### Hunt The Wumpus
 
-A python version of the classic text-based adventure game developed by Gregory Yob in 1973/
+A recreation of the classic text-based adventure game developed by Gregory Yob in 1973 using pygame module for Python.
